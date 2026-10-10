@@ -6,7 +6,7 @@
 #EXTINF:-1 tvg-id="TODO CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvKFyHtP0kcC8k8Nj_WlW0Ac5xwYCUurw6J0KZzxroBg&s=10",TODO CINE
 #EXTINF:-1 tvg-id="CANELA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8gL6pQalvPZsSVQaSNYbyKJRJdCKjxb_MhDE8L3pdQ&s=10",CANELA TV
 #EXTINF:-1 tvg-id="EL PITUCO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmfUYm3QXRpwwPUK9NWaltzi53VqQim0tZuspRR33bYbq-BKQWHmH_cEY&amp;s=10",EL PITUCO
-#EXTINF:-1 tvg-id="SPACE" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515394_45E57EEB6C610D30.png",SPACE
+#EXTINF:-1 tvg-id="Space" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515394_45E57EEB6C610D30.png",SPACE
 #EXTINF:-1 tvg-id="SPACE 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgqw5qzz_D24qmxE1PzxiSk3KEE7Rtei_HJMPhSvDsxQ&s=10",SPACE
 #EXTINF:-1 tvg-id="SONY" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519094_D25BA55CD778E9BC.png",SONY
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX4IfyUjgzD3WvG5hM9kIlgQSG2CfQNZW0rPsa-W6zWFHUING7SF3ic2LRD2P2MgI0_0MQj9ATFdauW2pc-THG4t3JHF80mY_3f3w4bs6jJHed1K4N_2vfhvEFk83cfQaqxx3RHWltjokA8m3UDDgWbbfcC3cCSAAQFCD8PrdJl_6Y-CSQy9GVZdspbg/s1600/ZONY-MOVIES.png",SONY MOVIES
@@ -52,7 +52,7 @@
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 2" tvg-logo="http://www.tmsimg.com/assets/s107396_ll_h3_ac.png",DIRECTV SPORTS 2
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512316_AA8FA81542C172F3.png",ESPN 2
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198159_B5DE0073541D8808.png",ESPN 3
-#EXTINF:-1 tvg-id="espn-4" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png",ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png",ESPN 4
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120539_C879B6958D9AC767.png",ESPN 5
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120541_B7604BB1E7F6FE82.png",ESPN 6
 #EXTINF:-1 tvg-id="WIN SPORTS" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6737707_F9A7AE02A016370E.png",WIN SPORTS
@@ -70,4 +70,4 @@
 #EXTINF:-1 tvg-id="K-DRAMAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcFv-jbuNIbJwBIA34G68Mc7jGoHBYjDzN3sezxyZ8gQ&s=10",Dramas Coreanos
 #EXTINF:-1 tvg-id="CINE PREMIUM" tvg-logo="http://www.tmsimg.com/assets/s111651_ll_h3_aa.png",CINE PREMIUM
 #EXTINF:-1 tvg-id="TV MISTERIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVFiIe-evAxJDUC1ys2vxPt_1a2VQotRAB7s7kOYxfxw&s=10",TV MISTERIO
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK3gr6cNtyi5b42a14QgcRnmd0SkrTDZnXitn9Yb2T4w&s=10",STAR CHANNEL
+#EXTINF:-1 tvg-id="Star Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK3gr6cNtyi5b42a14QgcRnmd0SkrTDZnXitn9Yb2T4w&s=10",Star Channel
