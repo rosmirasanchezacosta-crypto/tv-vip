@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="KIKEFLIX-CINE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXl2gTJsRJKqxkZKFKjD_WzohFRM815afHku72bNYU8IxOJjWKbHYsg8TYoP2ImwWKH_UZmq7S8X1Fmh7zpVwv6l7l3qIfZ0as_23jFvSM-47Gucqr5kgEhh7au6VZOP4R0PXrf-AvJsCWngzYMe9IpX50FRij9IlUzm00gSiNy0bw05vx-j7lUBm8DT0/w200-h169/logoT.png",KIKEFLIX-CINE
 #EXTINF:-1 tvg-id="24 Horas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgdF2PwtXXFLh1tyVIMsXwI0qnFqmmwuKRkVmkzU_y_A&amp;s=10",24 Horas
 #EXTINF:-1 tvg-id="CINE MEXICANO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7wEdP-GNfARGteoSPETRsyrRlrT4lwdJ_20WU70mkQg&s=10",CINE MEXICANO
-#EXTINF:-1 tvg-id="VIVE MUNDIAL2" tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png",VIVE MUNDIAL2
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png",CINEMAX
 #EXTINF:-1 tvg-id="TODO CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvKFyHtP0kcC8k8Nj_WlW0Ac5xwYCUurw6J0KZzxroBg&s=10",TODO CINE
 #EXTINF:-1 tvg-id="CANELA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8gL6pQalvPZsSVQaSNYbyKJRJdCKjxb_MhDE8L3pdQ&s=10",CANELA TV
 #EXTINF:-1 tvg-id="DISTRITO COMEDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhT-PyKEqSnHDwZ-oMhKuZZ6d4FelFxjQUVuYUDry88g&s=10",DISTRITO COMEDIA
@@ -20,7 +20,7 @@
 #EXTINF:-1 tvg-id="WARNER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM0CNDLbdhdYvwaqmYomPbM1yjqJs9IwycJUnRIo_uEg&s=10",WARNER CHANNEL
 #EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523291_F6DF039E3B8E8BB1.png",DISNEY JUNIOR
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj4_8RLDeMddrycWdBSGzxj-R3juzprL9paSoBSIl4GWo3Q_dyHK6VIQJL2IGlQ6XftGL9BAPsNwA0tOdm8HOAQUKFitYuaBpgRWZdiLV_j_2XQrev-HBasYwgAkU0ApA_OTpSKyxEkFGrHIeZBOdcxH5-OsH-uj4ZkfHaxXuKL7CjceRc3L2u72Cju-wE",DISNEY CHANNEL
-#EXTINF:-1 tvg-id="cartoon network" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png",cartoon network
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png",cartoon network
 #EXTINF:-1 tvg-id="XTREMACARTOONS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY7uCrlfH358md0_SewN4McGFfB2zzLzNB7ftHRfXk9A&s=10",XTREMACARTOONS
 #EXTINF:-1 tvg-id="CINECANAL" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512486_A3E2583BEF3E7D10.png",CINECANAL
 #EXTINF:-1 tvg-id="A&E" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519097_DE3A1635092C0904.png",A&E
